@@ -1,1 +1,1 @@
-# PlanUMLGenerator
+# PlantUMLGenerator
